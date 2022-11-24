@@ -3,7 +3,7 @@ A small example of a CWL workflow with mrtrix3
 
 To install cwl:
 
-sudo apt-get update
+sudo apt-get update  
 sudo apt-get install cwltool
 
 
